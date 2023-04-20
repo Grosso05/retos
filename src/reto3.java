@@ -41,7 +41,6 @@ public class reto3 {
         }
             
         System.out.print(" Ha caido : ");
-//Operaciones 
 
         switch ( seleccionmaquina )
         {
